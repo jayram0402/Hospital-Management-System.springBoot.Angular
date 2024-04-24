@@ -1,6 +1,5 @@
 ## 🚀 About Me
 I'm a full stack developer...
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
 
 # Hospital Management System Project
 
